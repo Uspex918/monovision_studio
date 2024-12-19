@@ -142,7 +142,7 @@ html {
 
 .promo__subtitle {
   margin-top: 124px;
-  color: red;
+  color: var(--light-color);
   font-size: 32px;
   font-weight: 100;
   @media screen and (max-width: 768px) {
